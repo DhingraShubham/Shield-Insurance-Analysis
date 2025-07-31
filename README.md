@@ -13,9 +13,9 @@ A Power BI dashboard was created as a pilot project for Shield Insurance to supp
 **Insights-**
 
 **Revenue Overview**
-•	Achieved ₹989.25M in total revenue over 6 months.
-•	March led with ₹263.84M, the peak month.
-•	April dipped to ₹131.69M, showing a sharp post-peak drop.
+- Achieved ₹989.25M in total revenue over 6 months.
+- March led with ₹263.84M, the peak month.
+- April dipped to ₹131.69M, showing a sharp post-peak drop.
 
 **Age Group Segmentation**
 •	Age 31–40 contributed ₹311.13M, the top-performing group.
